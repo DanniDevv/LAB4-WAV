@@ -2,8 +2,6 @@
 
 <h1>Ejercicios de implementación de módulos</h1>
 <h2>Calculo de horas en distintos formatos</h2>
-![horas](https://github.com/DanniDevv/LAB4-WAV/assets/89816411/a2004557-f2b1-42a7-9072-c0dc6e276559)
-
 <h2>Calculo de dias faltantes para una fecha:</h2>
 
 <h2>Codigo de un enrutador de URL. La idea es poder darle una dirección y que nos muestre una página HTML, por
